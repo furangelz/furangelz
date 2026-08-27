@@ -1,4 +1,4 @@
-### Hi, I’m aqua/furangelz
+# Hi, I’m aqua/furangelz
 
 ## Who exactly I am?
 
