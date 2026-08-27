@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I’m aqua/furangelz
 
-<!--
-**furangelz/furangelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who exactly I am?
 
-Here are some ideas to get you started:
+I'm a young developer interested in low level programming, Unix-like operating systems, and open-source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(I love suck suckless philosophy btw)
+
+## Interests:
+
+- Python, C and low-level programming
+- Linux, BSDs, Larp9, and other Unix-like systems
+- Unix history and legacy software
+- X11 development 
+- Window managers and desktop environments
+- Logo design in Figma
+
+## Projects:
+
+- vxwm-color, fork of vxwm to add dynamic color theming
+- asciimate, a very simple and primitive program to display ascii
