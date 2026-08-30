@@ -4,7 +4,7 @@
 
 I'm a young developer interested in low level programming, Unix-like operating systems, and open-source software.
 
-(I love suck suckless philosophy btw)
+(I love suckless philosophy btw)
 
 ## Interests:
 
